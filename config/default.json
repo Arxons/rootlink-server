@@ -1,0 +1,5 @@
+{
+  "port": 80,
+  "mongoURI": "mongodb+srv://Arxons:Sd34mhlsd@cluster0.y1bbv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "rootlink secret string"
+}
